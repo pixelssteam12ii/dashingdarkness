@@ -1,45 +1,55 @@
-# 2D Platformer
+play hundreds of levels!!
 
-This demo is a pixel art 2D platformer with graphics and sound.
+be aware of sad cubes...happy cubes will help you!
 
-It shows you how to code characters and physics-based objects
-in a real game context. This is a relatively complete demo
-where the player can jump, walk on slopes, fire bullets,
-interact with enemies, and more. It contains one closed
-level, and the player is invincible, unlike the enemies.
+get new collectables !
 
-You will find most of the demo’s content in the `Level.tscn` scene.
-You can open it from the default `Game.tscn` scene, or double
-click on `Level.tscn` in the `src/Level/` directory.
+and grate sound tracks!
 
-We invite you to open the demo's GDScript files in the editor as
-they contain a lot of comments that explain how each class works.
+realistic  fun game to play!
 
-Language: GDScript
+discover new and secret levels!
 
-Renderer: GLES 3 (particles are not available in GLES 2)
 
-## Features
 
-- Side-scrolling player controller using [`KinematicBody2D`](https://docs.godotengine.org/en/latest/classes/class_kinematicbody2d.html).
-    - Can walk on and snap to slopes.
-    - Can shoot, including while jumping.
-- Enemies that crawl on the floor and change direction when they encounter an obstacle.
-- Camera that stays within the level’s bounds.
-- Supports keyboard and gamepad controls.
-- Platforms that can move in any direction.
-- Gun that shoots bullets with rigid body (natural) physics.
-- Collectible coins.
-- Pause and pause menu.
-- Pixel art visuals.
-- Sound effects and music.
+great art work polished levels !
 
-## Screenshots
+ice levels AI levels and a lot more!
 
-![Player shooting in the direction of an enemy](screenshots/shoot.png)
+more than 500 modes!
 
-![The entire level layout viewed in the editor](screenshots/layout.png)
+601 polished levels!
 
-## Music
+with full original sounds!
 
-"Pompy" by Hubert Lamontagne (madbr) https://soundcloud.com/madbr/pompy
++ new impossible mode!
+
+and multiplayer in 1 device (pc only)
+
+                                                        
+
+second by second edited sound track
+
+                                                
+
+unlock hidden levels!
+
+find new things!
+
+discover new world
+
+More information
+Updated	 1 day ago
+Published	 68 days ago
+Status	In development
+Publisher	pixelss
+Release date	 in 70 days
+Author	Pixelssteam12
+Genre	Action, Adventure, Platformer, Puzzle
+Made with	Godot, Adobe Photoshop
+Tags	2D, Arcade, Atmospheric, Multiple Endings, Story Rich, Traps
+Average session	Days or more
+Languages	Afar, Abkhaz, Avestan, Afrikaans, Akan, Amharic, Aragonese, Arabic, Assamese, Avaric, Aymara, Azerbaijani, Bashkir, Belarusian, Bulgarian, Bihari, Bislama, Bambara, Bengali, Tibetan Standard Tibetan Central, Breton, Bosnian, Catalan; Valencian, Chechen, Chamorro, Corsican, Cree, Czech, Old Church Slavonic, Chuvash, Welsh, Danish, German, Divehi; Dhivehi; Maldivian;, Ewe, Greek Modern, English, Esperanto, Spanish; Castilian, Spanish; Latin America, Estonian, Basque, Persian, Fula; Fulah; Pulaar; Pular, Finnish, Fijian, Faroese, French, Western Frisian, Irish, Scottish Gaelic; Gaelic, Galician, Guaraní, Gujarati, Manx, Hausa, Hebrew (modern), Hindi, Hiri Motu, Croatian, Haitian; Haitian Creole, Hungarian, Armenian, Herero, Interlingua, Indonesian, Interlingue, Igbo, Nuosu, Inupiaq, Ido, Icelandic, Italian, Inuktitut, Japanese, Javanese, Georgian, Kongo, Kikuyu Gikuyu, Kwanyama Kuanyama, Kazakh, Kalaallisut Greenlandic, Khmer, Kannada, Korean, Kanuri, Kashmiri, Kurdish, Komi, Cornish, Kirghiz Kyrgyz, Latin, Luxembourgish Letzeburgesch, Luganda, Limburgish Limburgan Limburger, Lingala, Lao, Lithuanian, Luba-Katanga, Latvian, Malagasy, Marshallese, Māori, Macedonian, Malayalam, Mongolian, Marathi (Marāṭhī), Malay, Maltese, Burmese, Nauru, Norwegian Bokmål, North Ndebele, Nepali, Ndonga, Dutch, Norwegian Nynorsk, Norwegian, South Ndebele, Navajo Navaho, Chichewa; Chewa; Nyanja, Occitan, Ojibwe Ojibwa, Oromo, Oriya, Ossetian Ossetic, Panjabi Punjabi, Pāli, Polish, Pashto Pushto, Portuguese (Portugal), Portuguese (Brazil), Quechua, Romansh, Kirundi, Romanian Moldavian Moldovan, Russian, Kinyarwanda, Sanskrit (Saṁskṛta), Sardinian, Sindhi, Northern Sami, Sango, Sinhala Sinhalese, Slovak, Slovene, Samoan, Shona, Somali, Albanian, Serbian, Swati, Southern Sotho, Sundanese, Swedish, Swahili, Tamil, Telugu, Tajik, Thai, Tigrinya, Turkmen, Tagalog, Tswana, Tonga (Tonga Islands), Turkish, Tsonga, Tatar, Twi, Tahitian, Uighur Uyghur, Ukrainian, Urdu, Uzbek, Venda, Vietnamese, Volapük, Walloon, Wolof, Xhosa, Yiddish, Yoruba, Zhuang Chuang, Chinese, Chinese (Simplified), Chinese (Traditional)
+Inputs	Keyboard, Mouse, Gamepad (any), Joystick, Touchscreen
+Accessibility	Subtitles, Configurable controls, High-contrast, Interactive tutorial, Textless
+Links	YouTube
